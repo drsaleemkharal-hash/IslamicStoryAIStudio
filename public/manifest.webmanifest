@@ -1,0 +1,19 @@
+{
+  "name": "Islamic Story AI Studio — اسلامی کہانی AI اسٹوڈیو",
+  "short_name": "IslamicStoryAI",
+  "description": "Generate Islamic educational stories, video scripts, scene-by-scene AI video prompts for Veo & Kling, Urdu voice-overs, and social media videos.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#031c14",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%23064e3b'/><circle cx='50' cy='50' r='36' fill='%23d97706'/><circle cx='56' cy='44' r='30' fill='%23064e3b'/><polygon points='64,36 67,44 75,44 69,49 71,57 64,52 57,57 59,49 53,44 61,44' fill='%23fbbf24'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "entertainment", "books"]
+}

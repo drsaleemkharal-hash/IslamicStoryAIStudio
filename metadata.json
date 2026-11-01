@@ -1,0 +1,6 @@
+{
+  "name": "Islamic Story AI Studio — اسلامی کہانی AI اسٹوڈیو",
+  "description": "Generate Islamic educational stories, historical narratives, scene-by-scene AI video prompts for Veo & Kling, Urdu voice-overs, and social video scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
